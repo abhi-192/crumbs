@@ -1,0 +1,14 @@
+{
+  "name": "crumbs",
+  "version": "1.0.0",
+  "description": "Tool to setup a basic project structure skeleton for web application",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abhi-192",
+  "license": "ISC",
+  "bin": {
+    "crumbs": "./bin/index.js"
+  }
+}
