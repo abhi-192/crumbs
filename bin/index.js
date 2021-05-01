@@ -28,4 +28,4 @@ myShellScript.stderr.on('data', (data)=>{
     console.error(data);
 });
 
-console.log('project intitialized');
+console.log('Project Intitialized');
