@@ -8,6 +8,7 @@
 `cd ..`
 `cd public`
 `mkdir controllers`
+`cd ..`
 `cd views`
 `mkdir layouts pages`
 'cd ..'
