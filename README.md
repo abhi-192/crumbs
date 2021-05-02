@@ -1,4 +1,4 @@
-# crumbs
+# make-skeleton
 
 This is a simple CLI tool to setup a basic project structure skeleton for web application.
 
