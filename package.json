@@ -1,14 +1,17 @@
 {
-  "name": "crumbs",
+  "name": "make-skeleton",
   "version": "1.0.0",
   "description": "Tool to setup a basic project structure skeleton for web application",
   "main": "bin/index.js" ,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No test specified\""
   },
   "author": "abhi-192",
-  "license": "ISC",
+  "license": "MIT",
   "bin": {
-    "crumbs": "./bin/index.js"
+    "make-skeleton": "./bin/index.js"
+  }
+  "dependencies": {
+    "np": "^7.5.0"
   }
 }
