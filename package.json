@@ -9,9 +9,18 @@
   "author": "abhi-192",
   "license": "MIT",
   "bin": {
-    "make-skeleton": "./bin/index.js"
+    "make-skeleton": "bin/index.js"
   },
   "dependencies": {
     "np": "^7.5.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi-192/make-skeleton.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abhi-192/make-skeleton/issues"
+  },
+  "homepage": "https://github.com/abhi-192/make-skeleton#readme"
 }
