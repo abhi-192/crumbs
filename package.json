@@ -10,7 +10,7 @@
   "license": "MIT",
   "bin": {
     "make-skeleton": "./bin/index.js"
-  }
+  },
   "dependencies": {
     "np": "^7.5.0"
   }
